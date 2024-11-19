@@ -1,8 +1,8 @@
+package exercises;
+
 public class Payload {
 
-    public static String addPlace()
-
-    {
+    public static String addPlace() {
         return "{\n" +
                 "  \"location\": {\n" +
                 "    \"lat\": -38.383494,\n" +
